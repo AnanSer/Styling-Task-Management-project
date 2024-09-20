@@ -9,7 +9,7 @@
 }
 
 .form-control.invalid {
-  background-color: rgb(238, 155, 155);
+  /* background-color: rgb(238, 155, 155); */
   border-color: red;
 }
 
