@@ -1,2 +1,2 @@
 # Styling-Task-Management-project
-Styling this react project that  convey the functionality of adding, saving, and managing goals in a list format.
+Styling this react project that  convey the functionality of adding, saving, and managing goals in a list format to get better
